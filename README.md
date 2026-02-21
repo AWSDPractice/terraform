@@ -1,6 +1,10 @@
 # terraform
-terraform and aws ki configuration or connect cheyyadaniki after downloading terraform we have to download and install aws cli
-AFTER THATTHROUGH VISUAL STUDIO  we have to write code for terroform 
+terraform and aws ki configuration (connect) cheyyadaniki - after downloading terraform 
+we have to download and install aws cli
+open git -enter aws configure- enter i am user (user already had admin access) access id and key -enter region then after you have to check it was successfully configured or not
+enter aws s3 ls (without getting error it is successflly conigured)
+create repo for terraform and through repo code configure with git use git clone 
+after that through VISUAL STUDIO  we have to write code for terroform 
 for connection of terraform and visual studio we have to write first provider.tf code.. in this provider we should write configuration of terraform 
 terraform {
   required_providers {
